@@ -1,2 +1,4 @@
+revert test 
+
 Namiqin sozlerini burada yaziriq 
 Aygun oz sozlerini elave edir
